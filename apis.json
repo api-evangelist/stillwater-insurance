@@ -1,0 +1,40 @@
+{
+    "name": "Stillwater Insurance",
+    "description": "Stillwater Insurance Group provides peace of mind and security when you???re looking to protect your auto, home, rental properties, business or other assets.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28188-api-stillwaterinsurance-com.jpg",
+    "tags": [
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stillwater-insurance\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stillwater Insurance",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28188-api-stillwaterinsurance-com.jpg",
+            "humanURL": "https:\/\/api.stillwaterinsurance.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stillwater-insurance-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/stillwater-insurance-group"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/api.stillwaterinsurance.com"
+        }
+    ]
+}
